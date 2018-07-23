@@ -18,9 +18,9 @@
 */
 
 body {
-  font-family: "IBM Plex Sans", Georgia, "Helvetica Neue", sans-serif;
-  font-size: 17px;
-  color: #515151;
+  font-family: "Libre Franklin", Georgia, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  color: #000000;
   line-height: 1.5rem;
 }
 
@@ -43,7 +43,7 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Libre Franklin", sans-serif;
   color: #333;
 }
 
@@ -82,7 +82,7 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 615px;
+  width: 640px;
 }
 
 /*48em*/
@@ -101,7 +101,7 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 5rem;
-  font-family: "Roboto Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 .masthead a:hover {
@@ -110,12 +110,14 @@ hr {
 
 .masthead-title a {
   font-size: 2rem;
+  font-weight: bold;
   text-decoration: none;
   color: #505050;
 }
 
 .masthead-subtitle {
   color: #999;
+  padding-left: 0.5rem;
 }
 
 /*
@@ -153,7 +155,7 @@ hr {
   margin-top:3px;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Libre Franklin", sans-serif;
   font-size:0.8rem;
 }
 
@@ -182,7 +184,7 @@ hr {
 
 .pagination {
   overflow: hidden;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Libre Franklin", sans-serif;
   text-align: center;
 }
 

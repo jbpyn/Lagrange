@@ -21,9 +21,9 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Attention Madness'
-description:	       'by Jai Bentley-Payne'
+description:	       'A micro.blog'
 author:              'Jai Bentley-Payne'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+feed:
+  path: rss-feed.xml
