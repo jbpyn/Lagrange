@@ -5,10 +5,10 @@ title: Night Walking
 author: "Jai Bentley-Payne"
 categories:
 tags: []
-image: NightWalking.jpg
+image: nightwalking.jpg
 ---
 
 
 An image of the river down by the red zone
 
-![](/assets/NightWalking)
+![](/assets/nightwalking.jpg)
