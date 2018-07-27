@@ -142,6 +142,7 @@ hr {
 
 .post-container {
   margin-bottom: 4rem;
+  border-bottom: 1px solid #ebeaea;
 }
 
 .posts {
@@ -194,7 +195,6 @@ hr {
 
 .pagination-button {
   color: #999;
-  border: 1px solid #e0e0e0;
   padding: 15px 45px;
   display: inline-block;
   font-size: 16px;
