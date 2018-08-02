@@ -21,11 +21,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'next →'
+  previous_page: '← prev'
 
 sharing_button_prompt: 'Pass it on'
 
-related_posts: 'Read More:'
+related_posts: 'related:'
 
 post_date_prefix: 'Written on'
