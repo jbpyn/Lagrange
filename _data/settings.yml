@@ -24,8 +24,8 @@ pagination:
   next_page: 'next →'
   previous_page: '← prev'
 
-sharing_button_prompt: 'Pass it on'
+sharing_button_prompt: 'share'
 
 related_posts: 'related:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Published'
