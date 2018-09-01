@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://mystifying-shannon-0008da.netlify.com/* https://jbpayne.net/:splat 301!
