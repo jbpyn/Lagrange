@@ -16,8 +16,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Attention Madness   
-description: >- # this means to ignore newlines until "baseurl:"
+title: 'Attention Madness' 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jbpayne.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jaibpayne
@@ -35,7 +34,7 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-relative-links]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Attention Madness'
+
 description:	       'A micro.blog'
 author:              'J.B Payne'
 
