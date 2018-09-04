@@ -3,11 +3,10 @@ layout: post
 title: "Night Walking"
 author: "Jai Bentley-Payne"
 categories:
-tags: []
+tags: [photos]
 image: nightwalking.jpg
 ---
 
 
-An image of the river down by the red zone
+An image of the river down by the red zone. 
 
-![](nightwalking.jpg)
