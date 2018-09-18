@@ -16,9 +16,11 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/jaibpayne'}
 - {icon: 'envelope', link: 'mailto:jai@jbp.ninja'}
 - {icon: 'comment', link: 'http://micro.blog/jbp'}
-- {icon: 'rss-square', link: '/rss-feed.xml'}
+- {icon: 'rss-square', link: '/feed.xml'}
 
-# - {icon: 'rss-square', link: '/feed.xml'}
+# - {icon: 'rss-square', link: '/rss-feed.xml'}
+
+ 
 
 # Customize site text
 pagination:
